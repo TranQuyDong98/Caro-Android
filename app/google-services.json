@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828742339056",
+    "firebase_url": "https://caro-android.firebaseio.com",
+    "project_id": "caro-android",
+    "storage_bucket": "caro-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828742339056:android:f2e50cb72450f053797535",
+        "android_client_info": {
+          "package_name": "com.example.caro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828742339056-jqfvf4ae1kp6mgappu711ukkaobhj56n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAfS7EXROTQAMGHYSqzip636zZVrfnVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828742339056-jqfvf4ae1kp6mgappu711ukkaobhj56n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

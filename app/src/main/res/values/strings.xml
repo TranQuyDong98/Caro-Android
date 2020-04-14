@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Caro</string>
+    <string name="msg_token_fmt">token</string>
+    <string name="channel_id">ChannelId</string>
+</resources>
